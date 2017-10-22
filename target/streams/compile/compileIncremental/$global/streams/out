@@ -1,0 +1,82 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala, /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/Heap.scala, /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala, /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/Heap.scala, /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala, /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/Heap.scala, /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala, /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/Heap.scala, /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 3 Scala sources to /home/bigdata/workspacenew/progfun2-quickcheck/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.11.7[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.11.7. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.11.7  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_86b6f4b9[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/bigdata/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/bigdata/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.16/xsbti/interface-0.13.16.jar:/tmp/sbt_53802a0c/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.16-sources.jar:/home/bigdata/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.7/scala-compiler-2.11.7.jar:/home/bigdata/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7.jar:/home/bigdata/.coursier/cache/v1/https/repo1.maven.org/maven2/jline/jline/2.12.1/jline-2.12.1.jar:/home/bigdata/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar:/home/bigdata/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4.jar[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_e946fa06/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_e946fa06/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_e946fa06/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_e946fa06/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_e946fa06/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_e946fa06/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_e946fa06/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_e946fa06/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_e946fa06/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_e946fa06/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_e946fa06/xsbt/GlobalHelpers.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_e946fa06/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_e946fa06/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_e946fa06/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_e946fa06/xsbt/ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 13.538 s[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 14d52cc5, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/bigdata/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/bigdata/workspacenew/progfun2-quickcheck/target/scala-2.11/classes:/home/bigdata/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7.jar:/home/bigdata/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/home/bigdata/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar:/home/bigdata/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.1/scalacheck_2.11-1.12.1.jar:/home/bigdata/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4.jar:/home/bigdata/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 16.563312981 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	arbHeap.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/Heap.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/Heap.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/Heap.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Including /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala by /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/Heap.scala[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala, /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/Heap.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/Heap.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, curried, Heap, x, wait, copy$default$2, $asInstanceOf, empty, Bogus1BinomialHeap, insert, root, productArity, equals, Rank, IntHeap, Bogus4BinomialHeap, asInstanceOf, Bogus2BinomialHeap, rank, synchronized, deleteMin, A, Bogus5BinomialHeap, $isInstanceOf, Node, tupled, canEqual, productPrefix, notifyAll, isInstanceOf, ins, <init>, apply, ==, clone, link, $init$, copy$default$3, copy, meld, toString, H, !=, c, BinomialHeap, getClass, copy$default$1, r, isEmpty, Bogus3BinomialHeap, ne, findMin, eq, productIterator, ord, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/quickcheck/QuickCheck.scala: Set(empty, insert, IntHeap, deleteMin, A, <init>, apply, ==, meld, H, r, isEmpty, findMin)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/common/package.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/common/package.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/bigdata/workspacenew/progfun2-quickcheck/src/main/scala/common/package.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, package, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, resourceAsStreamFromSrc, notifyAll, isInstanceOf, ???, ==, clone, subFile, toString, !=, getClass, ne, eq, ##, finalize, hashCode, ***.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
